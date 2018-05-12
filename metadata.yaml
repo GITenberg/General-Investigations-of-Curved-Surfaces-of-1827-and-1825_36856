@@ -25,6 +25,8 @@ creator:
 description: Translations of the author's 1827 paper "Disquisitiones generales circa
   superficies curvas," his abstract of it, and his 1825 fragment "Neue allgemeine
   Untersuchungen über die krummen Flächen."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36856#General-Investigations-of-Curved-Surfaces-of-1827-and-1825
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2011-07-25'
 gutenberg_type: Text
