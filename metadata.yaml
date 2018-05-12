@@ -1,0 +1,48 @@
+_repo: General-Investigations-of-Curved-Surfaces-of-1827-and-1825_36856
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Morehead, James Caddall
+    gutenberg_agent_id: '38513'
+    url: http://www.gutenberg.org/2009/agents/38513
+  - agent_name: Hiltebeitel, Adam Miller
+    gutenberg_agent_id: '38514'
+    url: http://www.gutenberg.org/2009/agents/38514
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gauss, Carl Friedrich
+    aliases:
+    - Gauss, Karl Friedrich
+    - Gauss, C. F. (Carl Friedrich)
+    - Gauss, Carolus Fridericus
+    birthdate: 1777
+    deathdate: 1855
+    gutenberg_agent_id: '38512'
+    url: http://www.gutenberg.org/2009/agents/38512
+description: Translations of the author's 1827 paper "Disquisitiones generales circa
+  superficies curvas," his abstract of it, and his 1825 fragment "Neue allgemeine
+  Untersuchungen über die krummen Flächen."
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2011-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36856'
+  lccn: 02010849
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Surfaces'
+tableOfContents: Gauss's paper of 1827, General investigations of curved surfaces
+  [Commentationes Societatis regiae scientarum gottingensis recentiores, vol. VI.
+  Gottingae, MDCCCXXVIII] -- Gauss's abstract of the paper of 1827 [Göttingische gelehrte
+  anzeigen. November 5, 1827] -- Notes on the paper of 1827 -- Gauss's paper of 1825,
+  New general investigations of curved surfaces [Werke, v. 8, 1901] -- Notes of the
+  paper of 1825 -- Bibliography of the general theory of surfaces.
+title: General Investigations of Curved Surfaces of 1827 and 1825
+url: http://www.gutenberg.org/ebooks/36856
