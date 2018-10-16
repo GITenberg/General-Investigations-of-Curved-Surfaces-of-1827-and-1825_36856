@@ -40,6 +40,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QA'
 - !lcsh 'Surfaces'
+- GITenberg
 tableOfContents: Gauss's paper of 1827, General investigations of curved surfaces
   [Commentationes Societatis regiae scientarum gottingensis recentiores, vol. VI.
   Gottingae, MDCCCXXVIII] -- Gauss's abstract of the paper of 1827 [Göttingische gelehrte
